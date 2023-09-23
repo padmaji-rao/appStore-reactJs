@@ -1,0 +1,18 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px;
+  width: 175px;
+  padding: 15px;
+}
+.app-image {
+  width: 80px;
+}
+.app-head {
+  font-size: 20px;
+  font-weight: 700;
+}
